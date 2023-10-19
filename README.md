@@ -137,8 +137,10 @@ plt.ylabel('Errors')
 plt.show()
 ```
 OUTPUT:
+
 ![image](https://github.com/panimalarponnurangam/Experiment-2--Implementation-of-Perceptron/assets/121490826/742c13ad-0f1b-47dc-a922-30f6ce9c4096)
 ![image](https://github.com/panimalarponnurangam/Experiment-2--Implementation-of-Perceptron/assets/121490826/a0ef6c4f-263d-4b8d-b9fc-58bb014c7f07)
+
 RESULT:
 
    Thus ,a perceptron for classification using Python is executed successfully.
